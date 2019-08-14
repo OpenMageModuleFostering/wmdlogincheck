@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Wmdlogincheck",
+    "type": "magento-module",
+    "license": "EULA",
+    "homepage": "",
+    "description": "Login Check extension is checking for user login, if not redirects to login page. CMS Pages and actions of your choice. ",
+    "authors": [
+    {
+        "name": "Dominik Wyss",
+        "email": "info@digiswiss.ch"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
