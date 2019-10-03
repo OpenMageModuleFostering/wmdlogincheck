@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Login Check extension is checking for user login, if not redirects to login page. CMS Pages and actions of your choice. 
